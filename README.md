@@ -1,7 +1,12 @@
 # Ruta Backend, Arquitectura y Bases de Datos de Platzi
 
+LISTA DE CURSOS
 
-## Cursos Arquitectura de Software
+- ### Fundamentos del Desarrollo Backend
 
-1. Fundamentos de Arquitectura de Software (Fundamentos de Arquitectura de Software.pdf)
-2. CursProfesional de Arquitectura de Software (CursProfesional de Arquitectura de Software.pdf)
+- ### Bases de Datos
+
+- ### Arquitectura de Software
+
+1. Fundamentos de Arquitectura de Software
+2. CursProfesional de Arquitectura de Software
