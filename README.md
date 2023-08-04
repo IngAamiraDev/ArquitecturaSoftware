@@ -8,5 +8,5 @@ LISTA DE CURSOS
 
 - ### Arquitectura de Software
 
-1. [Fundamentos de Arquitectura de Software](001_Fundamentos de Arquitectura de Software/Fundamentos de Arquitectura de Software.pdf)
+1. Fundamentos de Arquitectura de Software
 2. CursProfesional de Arquitectura de Software
